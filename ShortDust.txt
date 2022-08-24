@@ -1,0 +1,151 @@
+[
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_hegrenade",
+    "position": [-957.62170410156, 949.18817138672, -65.142753601074],
+    "viewangles": [3.8499915599823, -30.535203933716],
+    "grenade": {
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_molotov",
+    "position": [-958.12139892578, 947.05395507812, -65.142753601074],
+    "viewangles": [2.8049921989441, -29.435211181641],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["car/fd", "car/fd"],
+    "description": "car/fd",
+    "weapon": "weapon_molotov",
+    "position": [-1279.9708251953, 955.19390869141, -166.61470031738],
+    "viewangles": [-6.3800115585327, -17.995283126831],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["tunnel", "tunnel"],
+    "description": "tunnel",
+    "weapon": "weapon_molotov",
+    "position": [-792.19342041016, 544.04260253906, -158.23196411133],
+    "viewangles": [-26.510152816772, 13.384651184082],
+    "grenade": {
+      "run": 24,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["tunnel", "tunnel"],
+    "description": "tunnel",
+    "weapon": "weapon_hegrenade",
+    "position": [-690.66876220703, 558.2958984375, -131.49600219727],
+    "viewangles": [-24.860158920288, 13.87965297699],
+    "grenade": {
+      "run": 24,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_molotov",
+    "position": [-1263.9685058594, 1207.6667480469, 32.03125],
+    "viewangles": [5.169867515564, -35.670841217041],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_molotov",
+    "position": [-879.40246582031, 978.13604736328, 35.03125],
+    "viewangles": [17.874858856201, -12.325731277466],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "run_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_hegrenade",
+    "position": [-882.23132324219, 984.27886962891, 35.03125],
+    "viewangles": [16.334754943848, -8.915717124939],
+    "grenade": {
+      "run": 17,
+      "recovery_jump": true,
+      "run_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["car", "car"],
+    "description": "car",
+    "weapon": "weapon_molotov",
+    "position": [-135.65621948242, 1129.017578125, 32.03125],
+    "viewangles": [7.204758644104, -62.810722351074],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["car", "car"],
+    "description": "car",
+    "weapon": "weapon_molotov",
+    "position": [232.74899291992, 1352.3046875, 32.03125],
+    "viewangles": [-0.66016840934753, -116.84532165527]
+  },
+  {
+    "name": ["car", "car"],
+    "description": "car",
+    "weapon": "weapon_hegrenade",
+    "position": [684.07531738281, 959.08471679688, 32.03125],
+    "viewangles": [-11.660177230835, -142.80627441406],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_molotov",
+    "position": [686.93951416016, 943.88177490234, 32.03125],
+    "viewangles": [-9.6801805496216, -143.52113342285]
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct",
+    "weapon": "weapon_molotov",
+    "position": [-74.832107543945, 756.86431884766, 8.53125],
+    "viewangles": [-6.1602048873901, -69.160972595215]
+  },
+  {
+    "name": ["ct", "ct"],
+    "description": "ct/fd",
+    "weapon": "weapon_molotov",
+    "position": [-15.884576797485, 649.10760498047, 79.662528991699],
+    "viewangles": [-7.4251470565796, -66.870658874512],
+    "grenade": {
+      "strength": 0,
+      "run": 20,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  }
+]
