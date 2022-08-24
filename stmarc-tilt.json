@@ -1,0 +1,284 @@
+[
+  {
+    "name": ["awp wall", "awp wall"],
+    "weapon": "weapon_molotov",
+    "position": [-6388.2065429688, 6196.4208984375, 32.167343139648],
+    "viewangles": [-6.7549781799316, 168.3684387207],
+    "grenade": {
+      "run": 47,
+      "delay": 3,
+      "recovery_yaw": -10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["awp wall", "awp wall"],
+    "weapon": "weapon_molotov",
+    "position": [-6247.2758789062, 6320.3979492188, 40.03125],
+    "viewangles": [-7.1950640678406, 172.30395507812],
+    "grenade": {
+      "run": 75,
+      "delay": 3,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["plant right", "plant right"],
+    "weapon": "weapon_hegrenade",
+    "position": [-8335.40234375, 6726.21875, 50.368919372559],
+    "viewangles": [-9.8411331176758, 6.5336437225342],
+    "grenade": {
+      "run": 10,
+      "delay": 3
+    }
+  },
+  {
+    "name": ["plant", "plant"],
+    "weapon": "weapon_molotov",
+    "position": [-8493.8212890625, 6640.0483398438, 59.893112182617],
+    "viewangles": [-16.221164703369, 10.35816192627],
+    "grenade": {
+      "run": 10,
+      "delay": 3
+    }
+  },
+  {
+    "name": ["awp wall", "awp wall"],
+    "weapon": "weapon_molotov",
+    "position": [-6560.2177734375, 6981.8032226562, 31.061988830566],
+    "viewangles": [-16.214984893799, -171.03080749512],
+    "grenade": {
+      "run": 33,
+      "delay": 2
+    }
+  },
+  {
+    "name": ["ice box", "ice box"],
+    "weapon": "weapon_molotov",
+    "position": [-6560.0659179688, 6981.78125, 31.061141967773],
+    "viewangles": [-19.411224365234, -177.10403442383],
+    "grenade": {
+      "run": 14,
+      "delay": 2
+    }
+  },
+  {
+    "name": ["car", "car"],
+    "weapon": "weapon_molotov",
+    "position": [-6560.2309570312, 6981.7836914062, 31.062370300293],
+    "viewangles": [-10.60502910614, -174.79379272461],
+    "grenade": {
+      "run": 21,
+      "delay": 2
+    }
+  },
+  {
+    "name": ["trash", "trash"],
+    "weapon": "weapon_molotov",
+    "position": [-7040.8403320312, 6192.55078125, 33.569190979004],
+    "viewangles": [-7.2048788070679, 110.96507263184],
+    "grenade": {
+      "run": 21,
+      "delay": 2
+    }
+  },
+  {
+    "name": ["market", "market"],
+    "weapon": "weapon_molotov",
+    "position": [-7245.6440429688, 6513.390625, 38.388549804688],
+    "viewangles": [-17.920190811157, -3.1687519550323]
+  },
+  {
+    "name": ["truck", "truck"],
+    "weapon": "weapon_molotov",
+    "position": [-7046.4272460938, 6235.9965820312, 34.205017089844],
+    "viewangles": [-9.3953304290771, 103.16975402832],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["ice", "ice"],
+    "weapon": "weapon_molotov",
+    "position": [-6238.865234375, 6111.2978515625, 32.03125],
+    "viewangles": [-1.0349054336548, 158.84169006348],
+    "grenade": {
+      "run": 50,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["van", "van"],
+    "weapon": "weapon_molotov",
+    "position": [-6238.8920898438, 6111.2846679688, 32.03125],
+    "viewangles": [-0.15502300858498, 153.96116638184],
+    "grenade": {
+      "run": 12,
+      "delay": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["van", "van"],
+    "weapon": "weapon_molotov",
+    "position": [-6836.765625, 6925.5190429688, 70.466369628906],
+    "viewangles": [-10.449955940247, -178.57049560547],
+    "duck": true
+  },
+  {
+    "name": ["van", "van"],
+    "weapon": "weapon_hegrenade",
+    "position": [-6839.4916992188, 6928.1015625, 70.466354370117],
+    "viewangles": [-13.739973068237, -179.36450195312],
+    "duck": true
+  },
+  {
+    "name": ["van", "van"],
+    "description": "high damage",
+    "weapon": "weapon_hegrenade",
+    "position": [-6927.9584960938, 6866.6357421875, 30.67456817627],
+    "viewangles": [-14.345031738281, 176.95610046387],
+    "duck": true
+  },
+  {
+    "name": ["van", "van"],
+    "weapon": "weapon_molotov",
+    "position": [-6927.9448242188, 6866.6352539062, 30.672058105469],
+    "viewangles": [-13.025029182434, 178.80043029785],
+    "duck": true
+  },
+  {
+    "name": ["barrels", "barrels"],
+    "weapon": "weapon_molotov",
+    "position": [-6306.7998046875, 6196.9819335938, 32.084510803223],
+    "viewangles": [-3.3999989032745, 167.04525756836],
+    "grenade": {
+      "run": 30,
+      "delay": 2,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["boat", "boat"],
+    "weapon": "weapon_molotov",
+    "position": [-5649.2583007812, 6383.8491210938, 36.948593139648],
+    "viewangles": [-21.219947814941, 174.17047119141],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["boat", "boat"],
+    "weapon": "weapon_molotov",
+    "position": [-5803.9072265625, 5992.052734375, 32.03125],
+    "viewangles": [-16.435033798218, 162.8455657959],
+    "grenade": {
+      "run": 14,
+      "delay": 2
+    }
+  },
+  {
+    "name": ["truck", "truck"],
+    "weapon": "weapon_molotov",
+    "position": [-6061.396484375, 7034.4189453125, 29.579498291016],
+    "viewangles": [-23.475116729736, 177.67152404785],
+    "duck": true
+  },
+  {
+    "name": ["truck", "truck"],
+    "description": "high damage",
+    "weapon": "weapon_hegrenade",
+    "position": [-6061.5317382812, 7034.47265625, 29.56884765625],
+    "viewangles": [-16.600027084351, 176.35166931152],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["plant", "plant"],
+    "weapon": "weapon_hegrenade",
+    "position": [-6061.3676757812, 7034.3862304688, 29.574607849121],
+    "viewangles": [-15.114996910095, -173.3618927002],
+    "duck": true
+  },
+  {
+    "name": ["van", "van"],
+    "weapon": "weapon_molotov",
+    "position": [-5978.1059570312, 7030.1118164062, 32.03125],
+    "viewangles": [-21.88000869751, -177.76260375977],
+    "grenade": {
+      "run": 17
+    }
+  },
+  {
+    "name": ["boat", "boat"],
+    "description": "unsafe",
+    "weapon": "weapon_molotov",
+    "position": [-6109.765625, 7131.9194335938, 35.404865264893],
+    "viewangles": [-20.792276382446, -147.99118041992],
+    "duck": true
+  },
+  {
+    "name": ["boat", "boat"],
+    "weapon": "weapon_molotov",
+    "position": [-5687.5625, 7018.0048828125, 32.03125],
+    "viewangles": [6.6650032997131, -159.84056091309],
+    "grenade": {
+      "run": 24,
+      "delay": 1,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["plant", "plant"],
+    "weapon": "weapon_molotov",
+    "position": [-7967.5844726562, 6911.732421875, 32.03125],
+    "viewangles": [-17.816009521484, 1.0023058652878],
+    "duck": true
+  },
+  {
+    "name": ["plant", "plant"],
+    "description": "back",
+    "weapon": "weapon_molotov",
+    "position": [-7967.556640625, 6911.7275390625, 32.03125],
+    "viewangles": [-22.71102142334, -1.1426941156387],
+    "grenade": {
+      "run": 42
+    },
+    "duck": true
+  },
+  {
+    "name": ["boat", "boat"],
+    "weapon": "weapon_molotov",
+    "position": [-7967.5825195312, 6911.7241210938, 32.03125],
+    "viewangles": [-22.210031509399, -21.742668151855]
+  },
+  {
+    "name": ["plant", "plant"],
+    "weapon": "weapon_hegrenade",
+    "position": [-7967.5825195312, 6911.7045898438, 32.03125],
+    "viewangles": [-15.994998931885, 0.17469292879105],
+    "duck": true
+  },
+  {
+    "name": ["truck", "truck"],
+    "weapon": "weapon_molotov",
+    "position": [-8361.8515625, 6879.9990234375, 51.249893188477],
+    "viewangles": [-22.154914855957, 8.0952129364014],
+    "duck": true
+  },
+  {
+    "name": ["plant", "plant"],
+    "weapon": "weapon_molotov",
+    "position": [-8361.81640625, 6879.9765625, 51.247375488281],
+    "viewangles": [-22.319971084595, 2.7850964069366],
+    "grenade": {
+      "run": 65
+    },
+    "duck": true
+  }
+]
